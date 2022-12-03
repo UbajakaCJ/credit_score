@@ -1,0 +1,293 @@
+Unnamed: 0,checking_balance,months_loan_duration,credit_history,purpose,amount,savings_balance,employment_length,installment_rate,personal_status,other_debtors,residence_history,property,age,installment_plan,housing,existing_credits,dependents,telephone,foreign_worker,job,gender,Id
+2,,12,critical,education,2096,24.0,5 years,2,single,none,4 years,real estate,49,none,own,1,2,,yes,unskilled resident,male,2
+4,-23.0,24,delayed,car (new),4870,43.0,3 years,3,single,none,13 years,unknown/none,53,none,for free,2,2,,yes,skilled employee,male,4
+6,,24,repaid,furniture,2835,761.0,11 years,3,single,none,12 years,building society savings,53,none,own,1,1,,yes,skilled employee,male,6
+13,-36.0,24,critical,car (new),1199,32.0,16 years,4,single,none,24 years,other,60,none,own,2,1,,yes,unskilled resident,male,13
+18,83.0,24,repaid,car (used),12579,16.0,17 years,4,,none,8 months,unknown/none,44,none,for free,1,1,2340724318.0,yes,mangement self-employed,female,18
+20,,9,critical,car (new),2134,97.0,1 years,4,single,none,14 years,other,48,none,own,3,1,2343322974.0,yes,skilled employee,male,20
+26,,6,fully repaid,radio/tv,426,67.0,10 years,4,married,none,14 years,other,39,none,own,1,1,,yes,unskilled resident,male,26
+29,-2.0,60,delayed,business,6836,73.0,10 years,3,single,none,10 years,unknown/none,63,none,own,2,1,2347105934.0,yes,skilled employee,male,29
+31,-31.0,24,repaid,furniture,4020,28.0,3 years,2,single,none,10 months,other,27,stores,own,1,1,,yes,skilled employee,male,31
+34,837.0,12,repaid,furniture,1474,62.0,1 months,4,,none,,building society savings,33,bank,own,1,1,2343153513.0,yes,mangement self-employed,female,34
+38,646.0,10,repaid,domestic appliances,1225,42.0,3 years,2,single,none,5 months,other,37,none,own,1,1,2347816684.0,yes,skilled employee,male,38
+39,128.0,9,repaid,radio/tv,458,41.0,1 years,4,single,none,2 years,real estate,24,none,own,1,1,,yes,skilled employee,male,39
+72,-15.0,8,critical,others,1164,98.0,16 years,3,single,none,14 years,unknown/none,51,bank,for free,2,2,2346967962.0,yes,mangement self-employed,male,72
+73,176.0,42,critical,business,5954,13.0,4 years,2,,none,,real estate,41,bank,own,2,1,,yes,unskilled resident,female,73
+77,42.0,11,delayed,radio/tv,4771,54.0,4 years,2,single,none,19 years,building society savings,51,none,own,1,1,,yes,skilled employee,male,77
+78,,54,fully repaid,car (used),9436,,1 years,2,single,none,1 months,building society savings,39,none,own,1,2,,yes,unskilled resident,male,78
+80,,24,repaid,radio/tv,5943,,0 months,1,,none,,other,44,none,own,2,1,2348699497.0,yes,skilled employee,female,80
+82,,18,repaid,business,1568,419.0,3 years,3,,none,11 years,building society savings,24,none,rent,1,1,,yes,unskilled resident,female,82
+86,29.0,18,critical,furniture,1295,80.0,9 months,4,,none,,building society savings,27,none,own,2,1,,yes,skilled employee,female,86
+87,55.0,36,repaid,education,12612,382.0,2 years,1,single,none,21 years,unknown/none,47,none,for free,1,2,2342786353.0,yes,skilled employee,male,87
+92,,12,critical,radio/tv,797,,17 years,4,,none,4 years,building society savings,33,bank,own,1,2,,yes,unskilled resident,female,92
+95,155.0,54,fully repaid,business,15945,88.0,11 months,3,single,none,9 years,unknown/none,58,none,rent,1,1,2347068417.0,yes,skilled employee,male,95
+98,76.0,36,critical,radio/tv,2337,35.0,9 years,4,single,none,22 years,real estate,36,none,own,1,1,,yes,skilled employee,male,98
+105,59.0,24,critical,others,11938,63.0,1 years,2,single,co-applicant,2 years,other,39,none,own,2,2,2347135380.0,yes,mangement self-employed,male,105
+110,71.0,6,delayed,business,1449,154.0,10 years,1,divorced,none,8 months,other,31,bank,own,2,2,,yes,skilled employee,male,110
+111,501.0,15,repaid,education,392,7.0,8 months,4,,none,18 years,building society savings,23,none,rent,1,1,2345155695.0,yes,skilled employee,female,111
+112,78.0,18,repaid,car (new),6260,35.0,4 years,3,single,none,1 years,real estate,28,none,rent,1,1,,yes,unskilled resident,male,112
+113,,36,critical,car (new),7855,95.0,3 years,4,,none,11 months,real estate,25,stores,own,2,1,2341217366.0,yes,skilled employee,female,113
+116,-41.0,42,repaid,radio/tv,7174,,4 years,4,,none,1 years,other,30,none,own,1,1,2343357274.0,yes,mangement self-employed,female,116
+120,-48.0,21,repaid,radio/tv,1835,9.0,2 years,3,,none,1 months,real estate,25,none,own,2,1,2345434658.0,yes,skilled employee,female,120
+130,72.0,48,repaid,car (new),8487,,5 years,1,,none,7 months,other,24,none,own,1,1,,yes,skilled employee,female,130
+131,-10.0,36,delayed,education,6887,33.0,3 years,4,single,none,1 years,building society savings,29,stores,own,1,1,2341195399.0,yes,skilled employee,male,131
+138,113.0,15,critical,radio/tv,2728,,6 years,4,single,guarantor,8 months,real estate,35,bank,own,3,1,2341105524.0,yes,skilled employee,male,138
+139,461.0,12,repaid,radio/tv,1881,8.0,2 years,2,,none,8 months,other,44,none,rent,1,1,2341810639.0,yes,unskilled resident,female,139
+147,,12,critical,car (new),682,184.0,4 years,4,,none,4 years,other,51,none,own,2,1,2344418858.0,yes,skilled employee,female,147
+148,-29.0,36,critical,furniture,5371,80.0,3 years,3,single,guarantor,1 months,building society savings,28,none,own,2,1,,yes,skilled employee,male,148
+152,404.0,36,repaid,radio/tv,5848,85.0,2 years,4,single,none,,other,24,none,own,1,1,,yes,skilled employee,male,152
+154,151.0,24,delayed,business,6967,112.0,6 years,4,single,none,7 years,other,36,none,rent,1,1,2346994228.0,yes,mangement self-employed,male,154
+157,-34.0,12,fully repaid this bank,retraining,339,9.0,10 years,4,married,none,,other,45,bank,own,1,1,,yes,unskilled resident,male,157
+158,32.0,24,repaid,car (new),3512,212.0,5 years,2,single,none,1 years,other,38,bank,own,2,1,2340525322.0,yes,skilled employee,male,158
+159,,6,critical,radio/tv,1898,,2 years,1,single,none,11 months,real estate,34,none,own,2,2,,yes,unskilled resident,male,159
+164,,36,repaid,car (new),909,893.0,8 years,4,single,none,8 years,building society savings,36,none,own,1,1,,yes,skilled employee,male,164
+166,-11.0,18,repaid,furniture,1131,11.0,,4,,none,9 months,other,33,none,own,1,1,,yes,skilled employee,female,166
+174,-29.0,21,delayed,education,3414,5.0,3 months,2,single,none,,building society savings,26,none,own,2,1,,yes,skilled employee,male,174
+183,,24,critical,furniture,3777,5073.0,2 years,4,single,none,23 years,real estate,50,none,own,1,1,2341034456.0,yes,skilled employee,male,183
+186,42.0,9,fully repaid this bank,car (used),5129,49.0,15 years,2,,none,10 years,unknown/none,74,bank,for free,1,2,2349982999.0,yes,mangement self-employed,female,186
+189,193.0,18,fully repaid,furniture,3244,8.0,1 years,1,,none,5 years,other,33,bank,own,2,1,2341253576.0,yes,skilled employee,female,189
+200,,9,critical,education,936,601.0,8 years,4,single,none,4 months,other,52,none,own,2,1,2343781692.0,yes,skilled employee,male,200
+203,-2.0,12,repaid,retraining,902,47.0,4 years,4,married,none,7 years,building society savings,21,none,rent,1,1,,yes,skilled employee,male,203
+206,,12,critical,furniture,1935,39.0,7 years,4,single,none,24 years,real estate,43,none,own,3,1,2348939309.0,yes,skilled employee,male,206
+207,147.0,12,critical,domestic appliances,1424,59.0,6 years,4,single,none,1 years,building society savings,26,none,own,1,1,,yes,skilled employee,male,207
+208,-37.0,24,repaid,business,6568,35.0,3 years,2,married,none,11 months,other,21,stores,own,1,1,,yes,unskilled resident,male,208
+212,-25.0,27,fully repaid,business,5293,88.0,,2,single,none,9 years,building society savings,50,stores,own,2,1,2342200859.0,yes,skilled employee,male,212
+214,,36,critical,radio/tv,3342,,14 years,4,single,none,4 months,other,51,none,own,1,1,2348466741.0,yes,skilled employee,male,214
+218,-23.0,24,repaid,furniture,3021,90.0,3 years,2,divorced,none,5 months,real estate,24,none,rent,1,1,,yes,unskilled resident,male,218
+220,128.0,12,repaid,radio/tv,625,30.0,5 months,4,married,guarantor,,real estate,26,bank,own,1,1,,yes,unskilled resident,male,220
+225,,36,fully repaid,repairs,2613,42.0,1 years,4,single,none,9 months,other,27,none,own,2,1,,yes,skilled employee,male,225
+229,-29.0,24,repaid,furniture,3149,71.0,8 months,4,single,none,,unknown/none,22,bank,for free,1,1,,yes,skilled employee,male,229
+233,80.0,18,repaid,radio/tv,866,55.0,1 years,4,married,guarantor,6 months,real estate,25,none,own,1,1,,yes,unskilled resident,male,233
+236,170.0,6,repaid,car (new),14555,,,1,single,none,0 months,building society savings,23,none,own,1,1,2342284120.0,yes,unemployed non-resident,male,236
+242,-33.0,48,fully repaid,car (used),4605,32.0,13 years,3,single,none,9 years,unknown/none,24,none,for free,2,2,,yes,skilled employee,male,242
+244,,12,fully repaid this bank,retraining,3447,970.0,2 years,4,,none,1 years,real estate,35,none,own,1,2,,yes,unskilled resident,female,244
+248,425.0,24,repaid,furniture,1925,27.0,1 years,2,single,none,9 months,real estate,26,none,own,1,1,,yes,skilled employee,male,248
+251,504.0,12,repaid,furniture,2251,2.0,1 years,1,,none,11 months,other,46,none,own,1,1,,yes,unskilled resident,female,251
+261,-2.0,24,repaid,radio/tv,1603,19.0,18 years,4,,none,13 years,other,55,none,own,1,1,,yes,skilled employee,female,261
+265,67.0,15,repaid,radio/tv,802,39.0,9 years,4,single,none,3 years,other,37,none,own,1,2,,yes,skilled employee,male,265
+266,,36,critical,business,6304,,8 years,4,single,none,24 years,real estate,36,none,own,2,1,,yes,skilled employee,male,266
+269,,24,repaid,radio/tv,999,,10 years,4,single,none,5 months,other,25,none,own,2,1,,yes,skilled employee,male,269
+270,,18,repaid,car (new),2662,,4 years,4,single,none,1 years,building society savings,32,none,own,1,1,,no,skilled employee,male,270
+274,-47.0,30,repaid,repairs,11998,25.0,3 months,1,divorced,none,,unknown/none,34,none,own,1,1,2349049816.0,yes,unskilled resident,male,274
+276,,18,critical,radio/tv,2404,92.0,3 years,2,,none,1 months,other,26,none,own,2,1,,yes,skilled employee,female,276
+280,,15,critical,car (used),3368,7306.0,15 years,3,single,none,10 years,unknown/none,23,none,rent,2,1,2344549698.0,yes,skilled employee,male,280
+281,,12,repaid,furniture,1574,49.0,1 years,4,single,none,6 months,real estate,50,none,own,1,1,,yes,skilled employee,male,281
+282,405.0,18,fully repaid this bank,radio/tv,1445,,7 years,4,single,none,7 years,other,49,bank,own,1,1,,yes,unskilled resident,male,282
+283,,15,critical,furniture,1520,,11 years,4,single,none,10 years,building society savings,63,none,own,1,1,,yes,skilled employee,male,283
+285,-24.0,47,repaid,car (new),10722,83.0,1 months,1,,none,,real estate,35,none,own,1,1,2342379549.0,yes,unskilled resident,female,285
+287,109.0,48,delayed,others,7582,406.0,,2,single,none,16 years,unknown/none,31,none,for free,1,1,2342312871.0,yes,mangement self-employed,male,287
+288,182.0,12,repaid,radio/tv,1092,91.0,3 years,4,,guarantor,20 years,real estate,49,none,own,2,1,2340837878.0,yes,skilled employee,female,288
+291,58.0,36,repaid,car (used),9398,63.0,10 months,1,married,none,24 years,other,28,none,rent,1,1,2348834224.0,yes,mangement self-employed,male,291
+292,-39.0,24,critical,car (used),6419,57.0,13 years,2,,none,23 years,unknown/none,44,none,for free,2,2,2342454871.0,yes,mangement self-employed,female,292
+296,,12,repaid,car (used),4675,,0 months,1,,none,10 years,other,20,none,rent,1,1,,yes,skilled employee,female,296
+298,,18,repaid,furniture,2515,75.0,3 years,3,single,none,22 years,real estate,43,none,own,1,1,2341136888.0,yes,skilled employee,male,298
+303,-15.0,10,critical,car (new),1038,4.0,5 years,4,single,co-applicant,3 years,building society savings,49,none,own,2,1,2345572952.0,yes,skilled employee,male,303
+306,,30,repaid,car (used),4811,,4 years,2,,none,12 years,building society savings,24,stores,rent,1,1,,yes,unskilled resident,female,306
+310,35.0,48,repaid,others,5381,,,3,single,none,23 years,unknown/none,40,bank,for free,1,1,2347907210.0,yes,unemployed non-resident,male,310
+311,,24,repaid,furniture,5511,115.0,1 years,4,single,none,,other,25,stores,own,1,1,,yes,skilled employee,male,311
+312,411.0,24,repaid,furniture,3749,38.0,10 months,2,,none,11 years,other,26,none,own,1,1,,yes,skilled employee,female,312
+315,-17.0,36,fully repaid this bank,furniture,2746,13.0,10 years,4,single,none,6 years,other,31,bank,own,1,1,,yes,skilled employee,male,315
+321,-28.0,24,repaid,radio/tv,1938,4.0,7 months,4,divorced,none,3 years,building society savings,32,none,own,1,1,,yes,skilled employee,male,321
+323,-36.0,18,repaid,furniture,2659,10331.0,3 years,4,single,none,10 months,other,28,none,own,1,1,,yes,skilled employee,male,323
+325,-43.0,8,critical,car (new),3398,66.0,6 years,1,single,none,20 years,real estate,39,none,own,2,1,,no,unskilled resident,male,325
+330,-44.0,24,critical,car (used),6615,52.0,,2,single,none,19 years,unknown/none,75,none,for free,2,1,2346072662.0,yes,mangement self-employed,male,330
+331,,18,critical,education,1864,313.0,1 years,4,,none,10 months,real estate,30,none,own,2,1,,yes,skilled employee,female,331
+332,72.0,60,repaid,car (new),7408,331.0,6 months,4,,none,8 months,building society savings,24,none,own,1,1,,yes,mangement self-employed,female,332
+335,-48.0,6,critical,furniture,3384,38.0,2 years,1,divorced,none,23 years,real estate,44,none,rent,1,1,2343167834.0,yes,mangement self-employed,male,335
+336,45.0,13,repaid,radio/tv,2101,95.0,8 months,2,,guarantor,9 years,building society savings,23,none,own,1,1,,yes,unskilled resident,female,336
+339,94.0,10,repaid,furniture,1521,57.0,1 years,4,divorced,none,2 months,other,31,none,own,1,1,,yes,unskilled resident,male,339
+342,62.0,18,repaid,radio/tv,3213,876.0,6 months,1,married,none,4 years,real estate,25,none,rent,1,1,,yes,skilled employee,male,342
+358,,12,repaid,radio/tv,776,98.0,2 years,4,married,none,1 months,real estate,28,none,own,1,1,,yes,skilled employee,male,358
+359,-31.0,30,repaid,furniture,2406,5.0,5 years,4,,none,5 years,real estate,23,none,rent,1,1,,yes,skilled employee,female,359
+368,-40.0,36,repaid,furniture,3446,88.0,16 years,4,single,none,6 months,other,42,none,own,1,2,,yes,skilled employee,male,368
+369,166.0,18,repaid,furniture,3001,84.0,6 years,2,,none,5 years,real estate,40,none,rent,1,1,,yes,skilled employee,female,369
+378,154.0,36,repaid,car (new),14318,20.0,13 years,4,single,none,4 months,unknown/none,57,none,for free,1,1,2344766015.0,yes,mangement self-employed,male,378
+382,,22,repaid,car (new),1283,,7 years,4,,none,16 years,building society savings,25,none,rent,1,1,,yes,skilled employee,female,382
+383,825.0,12,repaid,car (new),1330,47.0,5 months,4,single,none,,real estate,26,none,own,1,1,,yes,skilled employee,male,383
+396,-24.0,12,repaid,furniture,2578,89.0,,3,,none,11 years,unknown/none,55,none,for free,1,1,,yes,mangement self-employed,female,396
+398,8.0,12,repaid,car (new),1223,6.0,9 years,1,divorced,none,,real estate,46,none,rent,2,1,,yes,skilled employee,male,398
+403,,14,delayed,car (new),802,64.0,2 years,4,single,none,8 months,other,27,none,own,2,1,,yes,unskilled resident,male,403
+405,67.0,24,repaid,radio/tv,2039,20.0,11 months,1,married,none,,building society savings,22,none,own,1,1,2347264583.0,yes,skilled employee,male,405
+406,,24,critical,car (used),2197,,4 years,4,single,none,11 years,other,43,none,own,2,2,2347052666.0,yes,skilled employee,male,406
+407,-10.0,15,repaid,radio/tv,1053,92.0,7 months,4,married,none,6 months,real estate,27,none,own,1,1,,no,skilled employee,male,407
+411,,33,critical,car (used),7253,36.0,4 years,3,single,none,1 months,other,35,none,own,2,1,2349994320.0,yes,mangement self-employed,male,411
+413,,10,repaid,car (new),1597,745.0,2 years,3,single,none,3 months,unknown/none,40,none,rent,1,2,,no,unskilled resident,male,413
+420,,15,repaid,car (new),3186,13074.0,6 years,2,,none,1 years,other,20,none,rent,1,1,,yes,skilled employee,female,420
+424,159.0,12,repaid,furniture,2762,,12 years,1,,none,9 months,building society savings,25,bank,own,1,1,2345283587.0,yes,skilled employee,female,424
+426,,28,critical,radio/tv,2743,24.0,12 years,4,single,none,9 months,other,29,none,own,2,1,,yes,skilled employee,male,426
+428,,9,repaid,furniture,1313,89.0,10 years,1,single,none,23 years,other,20,none,own,1,1,,yes,skilled employee,male,428
+441,-22.0,12,repaid,furniture,1620,29.0,3 years,2,,co-applicant,1 years,building society savings,30,none,own,1,1,,yes,skilled employee,female,441
+444,69.0,48,critical,furniture,5096,95.0,2 years,2,,none,1 years,other,30,none,own,1,1,2349440166.0,yes,mangement self-employed,female,444
+451,,6,repaid,radio/tv,518,26.0,1 years,3,,none,,real estate,29,none,own,1,1,,yes,skilled employee,female,451
+453,,24,repaid,car (used),2670,86.0,19 years,4,single,none,22 years,other,35,none,own,1,1,2348455291.0,yes,mangement self-employed,male,453
+457,-38.0,12,repaid,car (used),3386,87.0,17 years,3,single,none,13 years,unknown/none,35,none,for free,1,1,2346087494.0,yes,skilled employee,male,457
+458,-37.0,6,repaid,domestic appliances,343,30.0,10 months,4,,none,,real estate,27,none,own,1,1,,yes,skilled employee,female,458
+461,-43.0,15,repaid,car (new),1721,22.0,7 months,2,single,none,2 years,real estate,36,none,own,1,1,,yes,skilled employee,male,461
+462,168.0,12,repaid,furniture,3017,91.0,9 months,3,,none,,real estate,34,none,rent,1,1,,yes,mangement self-employed,female,462
+468,,33,delayed,business,2764,15.0,1 years,2,,none,3 months,other,26,none,own,2,1,2340038383.0,yes,skilled employee,female,468
+470,150.0,24,repaid,radio/tv,3092,168.0,11 months,3,married,none,2 months,other,22,none,rent,1,1,2348009731.0,yes,skilled employee,male,470
+472,-45.0,9,repaid,car (new),654,98.0,3 years,4,single,none,4 years,other,28,none,own,1,1,,yes,unskilled resident,male,472
+475,-46.0,18,fully repaid,furniture,3114,69.0,3 months,1,,none,10 years,building society savings,26,none,rent,1,1,,yes,skilled employee,female,475
+484,,12,critical,car (new),1163,704.0,1 years,4,single,none,17 years,real estate,44,none,own,1,1,2347461778.0,yes,skilled employee,male,484
+492,,6,critical,radio/tv,1237,153.0,1 years,1,,none,,building society savings,27,none,own,2,1,,yes,skilled employee,female,492
+493,182.0,6,repaid,radio/tv,368,,15 years,4,single,none,22 years,building society savings,38,none,own,1,1,,yes,skilled employee,male,493
+496,74.0,36,repaid,furniture,9034,305.0,9 months,4,single,co-applicant,,unknown/none,29,none,rent,1,1,2346247361.0,yes,mangement self-employed,male,496
+497,,24,critical,furniture,1585,30.0,4 years,4,single,none,2 years,building society savings,40,none,own,2,1,,yes,skilled employee,male,497
+498,153.0,18,repaid,radio/tv,1301,88.0,19 years,4,married,guarantor,0 months,real estate,32,none,own,1,1,,yes,unskilled resident,male,498
+499,288.0,6,critical,car (new),1323,283.0,18 years,2,divorced,none,20 years,other,28,none,own,2,2,2341437370.0,yes,skilled employee,male,499
+505,,10,repaid,car (new),1309,,3 years,4,single,guarantor,16 years,building society savings,27,none,own,1,1,,yes,unskilled resident,male,505
+508,,24,repaid,radio/tv,1413,76.0,2 years,4,married,none,4 months,building society savings,28,none,own,1,1,,yes,skilled employee,male,508
+512,435.0,15,repaid,business,2687,70.0,7 years,2,single,none,5 years,building society savings,26,none,rent,1,1,2348823425.0,yes,skilled employee,male,512
+513,108.0,12,delayed,radio/tv,585,30.0,2 years,4,married,co-applicant,12 years,real estate,20,none,rent,2,1,,yes,skilled employee,male,513
+515,-32.0,6,critical,car (new),609,65.0,6 years,4,,none,3 years,building society savings,37,none,own,2,1,,no,skilled employee,female,515
+519,,6,critical,radio/tv,700,,11 years,4,single,none,20 years,unknown/none,36,none,for free,2,1,,yes,skilled employee,male,519
+522,-24.0,48,fully repaid,furniture,7119,55.0,1 years,3,single,none,22 years,unknown/none,53,none,for free,2,2,,yes,skilled employee,male,522
+524,22.0,18,repaid,radio/tv,1113,40.0,1 years,4,,guarantor,17 years,real estate,26,none,own,1,2,,yes,unskilled resident,female,524
+528,-22.0,36,repaid,radio/tv,2302,73.0,3 years,4,divorced,none,6 years,other,31,none,rent,1,1,,yes,skilled employee,male,528
+531,192.0,15,repaid,car (new),2631,214.0,3 years,2,,none,17 years,other,28,none,rent,2,1,2345191471.0,yes,skilled employee,female,531
+532,,12,delayed,car (used),1503,17.0,3 years,4,married,none,24 years,real estate,41,none,rent,1,1,,yes,skilled employee,male,532
+540,2.0,12,repaid,radio/tv,1534,57.0,3 months,1,married,none,,real estate,23,none,rent,1,1,,yes,skilled employee,male,540
+547,,24,repaid,radio/tv,1552,76.0,7 years,3,single,none,,other,32,bank,own,1,2,,yes,skilled employee,male,547
+548,-27.0,12,fully repaid this bank,radio/tv,626,46.0,2 years,4,,none,8 years,real estate,24,bank,own,1,1,,yes,unskilled resident,female,548
+549,,48,critical,car (used),8858,,4 years,2,single,none,,unknown/none,35,none,for free,2,1,2348565327.0,yes,skilled employee,male,549
+550,,12,critical,repairs,996,,6 years,4,,none,12 years,real estate,23,none,own,2,1,,yes,skilled employee,female,550
+553,94.0,12,critical,car (new),1995,483.0,10 months,4,single,none,,other,27,none,own,1,1,,yes,skilled employee,male,553
+554,138.0,9,repaid,education,1199,37.0,6 years,4,,none,23 years,building society savings,67,none,own,2,1,2344468754.0,yes,mangement self-employed,female,554
+558,-5.0,24,fully repaid this bank,furniture,3552,50.0,6 years,3,single,none,22 years,other,27,bank,own,1,1,,yes,skilled employee,male,558
+559,115.0,18,critical,furniture,1928,80.0,9 months,2,single,none,5 months,real estate,31,none,own,2,1,,yes,unskilled resident,male,559
+566,-2.0,12,repaid,car (new),1372,52.0,7 years,2,divorced,none,4 years,other,36,none,own,1,1,,yes,skilled employee,male,566
+567,,24,critical,radio/tv,2578,19342.0,15 years,2,single,none,0 months,other,34,none,own,1,1,,yes,skilled employee,male,567
+568,38.0,48,repaid,radio/tv,3979,,6 years,4,single,none,,other,41,none,own,2,2,2344812469.0,yes,skilled employee,male,568
+571,,30,critical,radio/tv,5954,15.0,4 years,3,single,co-applicant,0 months,other,38,none,own,1,1,,yes,skilled employee,male,571
+574,181.0,9,repaid,radio/tv,1082,19.0,18 years,4,single,none,22 years,other,27,none,own,2,1,,yes,unskilled resident,male,574
+578,140.0,36,critical,car (new),2820,11.0,11 months,4,divorced,none,24 years,other,27,none,own,2,1,,yes,skilled employee,male,578
+579,,24,repaid,retraining,937,1.0,9 months,4,married,none,2 years,other,27,none,own,2,1,,yes,unskilled resident,male,579
+589,-6.0,12,critical,furniture,2246,17.0,9 years,3,single,none,4 years,building society savings,60,none,own,2,1,,yes,skilled employee,male,589
+597,71.0,24,fully repaid,business,4241,24.0,3 years,1,single,none,20 years,real estate,36,none,own,3,1,2343985284.0,yes,unskilled resident,male,597
+599,,24,delayed,business,3863,98.0,2 years,1,single,none,3 months,unknown/none,32,none,for free,1,1,,yes,skilled employee,male,599
+600,5.0,7,repaid,radio/tv,2329,82.0,8 months,1,,guarantor,,real estate,45,none,own,1,1,,yes,skilled employee,female,600
+604,553.0,10,repaid,furniture,1275,42.0,0 months,4,,none,11 months,building society savings,23,none,own,1,1,,yes,skilled employee,female,604
+605,-42.0,24,fully repaid this bank,furniture,2828,557.0,1 years,4,single,none,23 years,real estate,22,stores,own,1,1,2344009465.0,yes,skilled employee,male,605
+608,,18,repaid,radio/tv,2051,0.0,6 months,4,single,none,,real estate,33,none,own,1,1,,yes,skilled employee,male,608
+609,,15,repaid,car (used),1300,,10 years,4,single,none,18 years,unknown/none,45,bank,for free,1,2,,yes,skilled employee,male,609
+611,222.0,10,repaid,car (new),1240,478.0,16 years,1,,none,22 years,unknown/none,48,none,for free,1,2,,yes,unskilled resident,female,611
+617,-37.0,6,critical,car (new),3676,5.0,3 years,1,single,none,3 years,real estate,37,none,rent,3,2,,yes,skilled employee,male,617
+622,,48,repaid,business,3914,,2 years,4,divorced,none,3 months,real estate,38,bank,own,1,1,,yes,skilled employee,male,622
+628,,42,critical,furniture,4042,806.0,3 years,4,single,none,21 years,real estate,36,none,own,2,1,2341826465.0,yes,skilled employee,male,628
+630,-19.0,24,repaid,radio/tv,3660,29.0,1 years,2,,none,24 years,other,28,none,own,1,1,,yes,skilled employee,female,630
+632,85.0,15,repaid,radio/tv,1444,,9 months,4,single,none,,building society savings,23,none,own,1,1,,yes,skilled employee,male,632
+634,51.0,24,repaid,car (new),1355,56.0,11 months,3,,none,14 years,other,25,none,own,1,1,2348743348.0,yes,unskilled resident,female,634
+639,-12.0,42,delayed,radio/tv,4370,1.0,6 years,3,single,none,8 months,building society savings,26,bank,own,2,2,2343942339.0,yes,skilled employee,male,639
+640,-30.0,18,repaid,education,750,33.0,,4,,none,,real estate,27,none,own,1,1,,yes,unemployed non-resident,female,640
+644,-36.0,18,critical,radio/tv,1880,25.0,7 years,4,married,none,,building society savings,32,none,own,2,1,2348609414.0,yes,mangement self-employed,male,644
+647,,12,repaid,car (new),1386,730.0,3 years,2,,none,9 months,building society savings,26,none,own,1,1,,yes,skilled employee,female,647
+657,,48,repaid,radio/tv,10222,,7 years,4,single,none,3 years,other,37,stores,own,1,1,2341373912.0,yes,skilled employee,male,657
+658,68.0,30,fully repaid,business,4221,17.0,2 years,2,,none,,other,28,none,own,2,1,,yes,skilled employee,female,658
+665,,24,critical,others,6314,77.0,,4,single,co-applicant,7 months,unknown/none,27,bank,own,2,1,2349386102.0,yes,mangement self-employed,male,665
+666,15.0,30,fully repaid this bank,furniture,3496,6088.0,1 years,4,single,none,10 months,other,34,stores,own,1,2,2344509765.0,yes,skilled employee,male,666
+669,276.0,30,critical,radio/tv,3017,60.0,19 years,4,single,none,21 years,building society savings,47,none,own,1,1,,yes,skilled employee,male,669
+670,,24,critical,business,4139,316.0,2 years,3,single,none,4 years,building society savings,27,none,own,2,1,2344778873.0,yes,unskilled resident,male,670
+672,,60,repaid,car (new),10366,43.0,19 years,2,single,none,15 years,building society savings,42,none,own,1,1,2345198791.0,yes,mangement self-employed,male,672
+673,,6,critical,car (new),2080,597.0,2 years,1,married,none,7 months,other,24,none,own,1,1,,yes,skilled employee,male,673
+679,,18,repaid,radio/tv,1453,22.0,11 months,3,,none,,real estate,26,none,own,1,1,,yes,skilled employee,female,679
+690,-14.0,15,critical,furniture,975,10.0,3 years,2,divorced,none,2 years,building society savings,25,none,own,2,1,,yes,skilled employee,male,690
+695,,6,repaid,car (used),1236,661.0,3 years,2,single,none,13 years,building society savings,50,none,rent,1,1,,yes,skilled employee,male,695
+696,151.0,12,repaid,radio/tv,1103,92.0,5 years,4,single,guarantor,2 years,real estate,29,none,own,2,1,,no,skilled employee,male,696
+707,78.0,12,fully repaid,furniture,2969,98.0,3 months,4,,none,2 years,building society savings,25,none,rent,2,1,,yes,skilled employee,female,707
+709,78.0,9,repaid,radio/tv,2118,4.0,1 years,2,single,none,6 months,real estate,37,none,own,1,2,,yes,unskilled resident,male,709
+710,,18,critical,radio/tv,629,922.0,7 years,4,single,none,4 years,building society savings,32,bank,own,2,1,2341260300.0,yes,mangement self-employed,male,710
+711,-44.0,6,fully repaid this bank,education,1198,80.0,15 years,4,,none,8 years,unknown/none,35,none,for free,1,1,,yes,skilled employee,female,711
+714,190.0,60,repaid,car (new),14027,53.0,5 years,4,single,none,1 months,unknown/none,27,none,own,1,1,2345078382.0,yes,mangement self-employed,male,714
+715,,30,critical,car (used),7596,,9 years,1,single,none,17 years,other,63,none,own,2,1,,yes,skilled employee,male,715
+716,,30,critical,radio/tv,3077,,7 years,3,single,none,8 months,other,40,none,own,2,2,2340692176.0,yes,skilled employee,male,716
+721,78.0,6,fully repaid this bank,education,433,18319.0,6 months,4,,none,9 months,building society savings,24,bank,rent,1,2,,yes,skilled employee,female,721
+722,-25.0,12,repaid,car (new),1228,23.0,1 years,4,,none,0 months,real estate,24,none,own,1,1,,yes,unskilled resident,female,722
+727,-50.0,18,repaid,radio/tv,1882,44.0,2 years,4,,none,7 years,other,25,bank,rent,2,1,,yes,skilled employee,female,727
+732,184.0,8,repaid,radio/tv,760,69.0,5 years,4,,guarantor,9 months,real estate,44,none,own,1,1,,yes,unskilled resident,female,732
+733,,24,repaid,car (used),2603,2619.0,3 years,2,,none,23 years,other,28,none,rent,1,1,2346003899.0,yes,skilled employee,female,733
+735,17.0,36,fully repaid this bank,domestic appliances,3990,,10 months,3,,none,3 months,unknown/none,29,bank,own,1,1,,yes,unemployed non-resident,female,735
+736,175.0,24,repaid,car (used),11560,1.0,3 years,1,,none,21 years,other,23,none,rent,2,1,,yes,mangement self-employed,female,736
+742,,21,repaid,radio/tv,3160,,11 years,4,single,none,1 years,building society savings,41,none,own,1,1,2347857141.0,yes,skilled employee,male,742
+747,-14.0,12,repaid,car (new),1274,75.0,1 months,3,,none,,real estate,37,none,own,1,1,,yes,unskilled resident,female,747
+749,,15,repaid,car (used),3029,94.0,6 years,2,single,none,0 months,other,33,none,own,1,1,,yes,skilled employee,male,749
+750,-44.0,6,repaid,furniture,428,26.0,11 years,2,,none,,building society savings,49,bank,own,1,1,2342566376.0,yes,skilled employee,female,750
+753,,30,critical,radio/tv,5771,59.0,6 years,4,,none,2 months,other,25,none,own,2,1,,yes,skilled employee,female,753
+754,,12,delayed,repairs,1555,19749.0,13 years,4,single,none,13 years,unknown/none,55,none,for free,2,2,,yes,skilled employee,male,754
+755,-38.0,24,repaid,car (new),1285,,7 years,4,,none,12 years,unknown/none,32,none,rent,1,1,,yes,skilled employee,female,755
+759,-37.0,12,critical,car (new),691,64.0,19 years,4,single,none,2 years,building society savings,35,none,own,2,1,,yes,skilled employee,male,759
+760,,15,critical,car (new),5045,,11 years,1,,none,10 years,other,59,none,own,1,1,2345824531.0,yes,skilled employee,female,760
+761,-40.0,18,critical,furniture,2124,13.0,1 years,4,,none,19 years,real estate,24,none,rent,2,1,,yes,skilled employee,female,761
+764,,24,critical,car (new),2463,237.0,7 years,4,married,none,2 years,building society savings,27,none,own,2,1,2345137343.0,yes,skilled employee,male,764
+766,-40.0,30,repaid,furniture,3108,90.0,10 months,2,divorced,none,10 years,building society savings,31,none,own,1,1,,yes,unskilled resident,male,766
+767,,10,repaid,car (used),2901,,6 months,1,,none,20 years,real estate,31,none,rent,1,1,,yes,skilled employee,female,767
+770,-31.0,24,repaid,car (used),2812,,18 years,2,,none,24 years,real estate,26,none,rent,1,1,,yes,skilled employee,female,770
+771,-11.0,36,critical,education,8065,5.0,3 years,3,,none,9 months,unknown/none,25,none,own,2,1,2345682721.0,yes,mangement self-employed,female,771
+772,,21,critical,car (used),3275,87.0,18 years,1,single,none,13 years,other,36,none,own,1,1,2340355297.0,yes,mangement self-employed,male,772
+774,641.0,12,critical,car (new),1480,707.0,,2,single,none,18 years,unknown/none,66,bank,for free,3,1,,yes,unemployed non-resident,male,774
+775,-1.0,24,repaid,car (new),1371,,1 years,4,,none,9 years,real estate,25,none,rent,1,1,,yes,skilled employee,female,775
+782,162.0,12,fully repaid,retraining,1410,61.0,1 years,2,single,none,4 months,real estate,31,none,own,1,1,2343536493.0,yes,unskilled resident,male,782
+787,,48,critical,car (used),2751,,13 years,4,single,none,3 years,other,38,none,own,2,2,2342214627.0,yes,skilled employee,male,787
+792,,6,critical,furniture,1221,,2 years,1,married,none,2 months,building society savings,27,none,own,2,1,,yes,skilled employee,male,792
+793,512.0,24,repaid,furniture,2892,61.0,12 years,3,divorced,none,12 years,unknown/none,51,none,for free,1,1,,yes,skilled employee,male,793
+811,109.0,6,repaid,radio/tv,484,94.0,7 years,3,married,guarantor,3 years,real estate,28,bank,own,1,1,,yes,unskilled resident,male,811
+815,192.0,36,delayed,car (new),7432,89.0,2 years,2,,none,6 months,building society savings,54,none,rent,1,1,,yes,skilled employee,female,815
+817,,6,critical,radio/tv,1554,45.0,6 years,1,,none,3 months,other,24,none,rent,2,1,2349540412.0,yes,skilled employee,female,817
+819,-8.0,18,repaid,radio/tv,1345,25.0,1 years,4,married,none,2 years,real estate,26,bank,own,1,1,,yes,skilled employee,male,819
+827,,18,fully repaid,business,4165,75.0,1 years,2,single,none,6 months,other,36,stores,own,2,2,,yes,skilled employee,male,827
+829,10.0,48,delayed,business,6681,,1 years,4,single,none,17 years,unknown/none,38,none,for free,1,2,2342369885.0,yes,skilled employee,male,829
+830,,24,delayed,business,2375,980.0,1 years,4,single,none,6 months,other,44,none,own,2,2,2348902034.0,yes,skilled employee,male,830
+833,16.0,24,repaid,radio/tv,5084,,19 years,2,,none,9 years,other,42,none,own,1,1,2345609769.0,yes,skilled employee,female,833
+840,-47.0,36,repaid,furniture,5179,73.0,5 years,4,single,none,3 months,building society savings,29,none,own,1,1,,yes,skilled employee,male,840
+842,,18,repaid,repairs,1943,85.0,3 months,4,,none,7 years,real estate,23,none,own,1,1,,yes,skilled employee,female,842
+853,-45.0,18,fully repaid this bank,car (new),1442,83.0,4 years,4,single,none,6 years,unknown/none,32,none,for free,2,2,,yes,unskilled resident,male,853
+854,,36,delayed,car (new),10875,21.0,12 years,2,single,none,11 months,other,45,none,own,2,2,2346675790.0,yes,skilled employee,male,854
+856,,10,repaid,retraining,894,,6 years,4,,none,3 years,building society savings,40,none,own,1,1,2348130509.0,yes,skilled employee,female,856
+857,,15,critical,furniture,3343,3.0,3 years,4,single,none,5 months,unknown/none,28,none,for free,1,1,2349673264.0,yes,skilled employee,male,857
+859,,9,repaid,car (new),3577,303.0,3 years,1,single,guarantor,2 months,real estate,26,none,rent,1,2,,no,skilled employee,male,859
+860,,24,critical,car (used),5804,19972.0,1 years,4,single,none,10 months,real estate,27,none,own,2,1,,yes,skilled employee,male,860
+865,,15,repaid,furniture,2221,513.0,2 years,2,,none,18 years,other,20,none,rent,1,1,,yes,skilled employee,female,865
+871,309.0,6,critical,car (new),1343,93.0,18 years,1,single,none,9 years,real estate,46,none,own,2,2,,no,skilled employee,male,871
+879,,30,critical,radio/tv,6742,,4 years,2,single,none,3 years,building society savings,36,none,own,2,1,,yes,skilled employee,male,879
+880,,24,repaid,car (used),7814,56.0,7 years,3,single,none,2 years,other,38,none,own,1,1,2346940882.0,yes,mangement self-employed,male,880
+887,5.0,48,repaid,business,15672,19.0,2 years,2,single,none,2 months,other,23,none,own,1,1,2342584028.0,yes,skilled employee,male,887
+891,,15,critical,radio/tv,1829,75.0,19 years,4,single,none,11 years,other,46,none,own,2,1,2344310198.0,yes,skilled employee,male,891
+897,,12,critical,furniture,1592,18574.0,6 years,3,,none,5 months,building society savings,35,none,own,1,1,,no,skilled employee,female,897
+898,,15,repaid,furniture,2186,,6 years,1,,none,5 years,real estate,33,bank,rent,1,1,,yes,unskilled resident,female,898
+899,-41.0,18,repaid,furniture,4153,29.0,2 years,2,single,co-applicant,4 years,other,42,none,own,1,1,,yes,skilled employee,male,899
+900,-10.0,16,critical,car (new),2625,20.0,8 years,2,single,guarantor,22 years,building society savings,43,bank,rent,1,1,2348658599.0,yes,skilled employee,male,900
+903,,15,repaid,radio/tv,1386,,1 years,4,married,none,0 months,real estate,40,none,rent,1,1,2342930540.0,yes,skilled employee,male,903
+904,,24,repaid,radio/tv,1278,75.0,12 years,4,single,none,,real estate,36,none,own,1,1,2347814325.0,yes,mangement self-employed,male,904
+909,104.0,9,repaid,car (new),3195,,1 years,1,,none,8 months,real estate,33,none,own,1,1,,yes,unskilled resident,female,909
+910,,36,delayed,radio/tv,4454,13.0,1 years,4,,none,18 years,real estate,34,none,own,2,1,,yes,skilled employee,female,910
+913,,11,repaid,business,2142,10664.0,13 years,1,divorced,none,7 months,real estate,28,none,own,1,1,2344555284.0,yes,skilled employee,male,913
+919,-41.0,24,repaid,furniture,3345,3.0,9 years,4,single,none,10 months,building society savings,39,none,rent,1,1,2341148008.0,yes,mangement self-employed,male,919
+921,,48,delayed,radio/tv,12749,553.0,7 years,4,single,none,,other,37,none,own,1,1,2340450190.0,yes,mangement self-employed,male,921
+922,-11.0,9,repaid,radio/tv,1366,45.0,4 months,3,,none,18 years,building society savings,22,none,rent,1,1,,yes,skilled employee,female,922
+926,-46.0,18,critical,furniture,1049,28.0,1 months,4,,none,17 years,building society savings,21,none,rent,1,1,,yes,skilled employee,female,926
+934,-49.0,12,repaid,radio/tv,1498,26.0,2 years,4,,none,,other,23,bank,own,1,1,,yes,skilled employee,female,934
+936,778.0,9,repaid,radio/tv,745,14.0,2 years,3,,none,9 months,real estate,28,none,own,1,1,,yes,unskilled resident,female,936
+941,,10,repaid,car (new),1546,31.0,2 years,3,single,none,11 months,real estate,31,none,own,1,2,,no,unskilled resident,male,941
+942,,24,repaid,furniture,929,,7 years,4,single,none,1 months,other,31,stores,own,1,1,2349394262.0,yes,skilled employee,male,942
+943,,4,critical,car (new),1455,34.0,5 years,2,single,none,,real estate,42,none,own,3,2,,yes,unskilled resident,male,943
+944,-9.0,15,repaid,furniture,1845,17.0,7 months,4,,guarantor,,building society savings,46,none,rent,1,1,,yes,skilled employee,female,944
+946,-34.0,24,fully repaid this bank,furniture,3349,783.0,2 months,4,single,none,10 years,unknown/none,30,none,for free,1,2,2341458056.0,yes,skilled employee,male,946
+947,,12,repaid,car (new),2859,,,4,single,none,24 years,unknown/none,38,none,own,1,1,2344332525.0,yes,mangement self-employed,male,947
+948,,18,repaid,furniture,1533,63.0,6 months,4,married,co-applicant,,building society savings,43,none,own,1,2,,yes,unskilled resident,male,948
+953,,36,repaid,furniture,10974,84.0,,4,,none,5 months,other,26,none,own,2,1,2343016845.0,yes,mangement self-employed,female,953
+955,-21.0,24,critical,radio/tv,1231,1675.0,15 years,4,,none,7 years,building society savings,57,none,rent,2,1,2343969360.0,yes,mangement self-employed,female,955
+964,73.0,6,repaid,repairs,454,15.0,11 months,3,married,none,,building society savings,22,none,own,1,1,,yes,unskilled resident,male,964
+965,42.0,30,repaid,radio/tv,1715,,3 years,4,,none,,other,26,none,own,1,1,,yes,skilled employee,female,965
+976,121.0,6,repaid,radio/tv,753,89.0,3 years,2,,guarantor,3 years,real estate,64,none,own,1,1,,yes,skilled employee,female,976
+977,161.0,18,delayed,business,2427,,10 years,4,single,none,6 months,building society savings,42,none,own,2,1,,yes,skilled employee,male,977
+980,185.0,30,critical,furniture,8386,84.0,5 years,2,single,none,3 months,building society savings,49,none,own,1,1,,yes,skilled employee,male,980
+983,-33.0,36,repaid,car (used),8229,85.0,2 years,2,single,none,8 months,building society savings,26,none,own,1,2,,yes,skilled employee,male,983
+984,,24,critical,furniture,2028,5.0,4 years,2,single,none,6 months,building society savings,30,none,own,2,1,,yes,unskilled resident,male,984
+985,-44.0,15,critical,furniture,1433,91.0,1 years,4,,none,1 years,building society savings,25,none,rent,2,1,,yes,skilled employee,female,985
+987,,13,repaid,radio/tv,1409,447.0,,2,,none,20 years,real estate,64,none,own,1,1,,yes,skilled employee,female,987
+990,,12,critical,education,3565,,5 months,2,single,none,,building society savings,37,none,own,2,2,,yes,unskilled resident,male,990
+991,,15,fully repaid this bank,radio/tv,1569,455.0,9 years,4,single,none,22 years,other,34,bank,own,1,2,,yes,unskilled resident,male,991
+992,-37.0,18,repaid,radio/tv,1936,,6 years,2,married,none,21 years,other,23,none,rent,2,1,,yes,unskilled resident,male,992
+993,-18.0,36,repaid,furniture,3959,75.0,,4,single,none,3 years,building society savings,30,none,own,1,1,2349185006.0,yes,mangement self-employed,male,993
+995,,12,repaid,furniture,1736,48.0,4 years,3,,none,20 years,real estate,31,none,own,1,1,,yes,unskilled resident,female,995
+996,-30.0,30,repaid,car (used),3857,20.0,3 years,4,divorced,none,5 years,building society savings,40,none,own,1,1,2340003563.0,yes,mangement self-employed,male,996
+999,194.0,45,critical,car (used),4576,128.0,,3,single,none,21 years,other,27,none,own,1,1,,yes,skilled employee,male,999
